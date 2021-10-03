@@ -1,4 +1,4 @@
-![Hacktoberfest 2021](./Assets/logo.svg)
+![Hacktoberfest 2021](https://raw.githubusercontent.com/GOVINDARAJLE/Hacktoberfest-2021/aa259ede7c713f44213095e8e82d88d11eefa360/Assets/logo.svg)
 
 # Hacktoberfest-2021
 Open source is changing the world – one contribution at a time.
